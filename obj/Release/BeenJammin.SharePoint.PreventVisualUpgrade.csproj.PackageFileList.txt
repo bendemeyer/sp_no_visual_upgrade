@@ -1,0 +1,1 @@
+bin\Release\BeenJammin.SharePoint.PreventVisualUpgrade.wsp

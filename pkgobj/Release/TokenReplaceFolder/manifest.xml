@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="7dfd64ef-6e06-456d-a9f3-54611f76c3ad" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="BeenJammin.SharePoint.PreventVisualUpgrade.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="BeenJammin.SharePoint.PreventVisualUpgrade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6ef44e5a8c5e130" Namespace="BeenJammin.SharePoint.PreventVisualUpgrade" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="BeenJammin.SharePoint.PreventVisualUpgrade_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

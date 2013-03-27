@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Prevent Visual Upgrade on New Subsites" Description="Turning on this feature will cause new subsites created througout this site collection to use SharePoint UI version 3 (the default UI for SharePoint 2007). This should be turned on for all sites migrated from SharePoint 2007 to 2010 without performing the visual upgrade." Id="a26eaff2-93e1-4ee0-84b3-6bff42bfdefe" Scope="Site">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="PreventVisualUpgrade\Elements.xml" />
+  </ElementManifests>
+</Feature>

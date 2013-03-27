@@ -1,0 +1,6 @@
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\bin\Debug\BeenJammin.SharePoint.PreventVisualUpgrade.dll
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\bin\Debug\BeenJammin.SharePoint.PreventVisualUpgrade.pdb
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\obj\Debug\ResolveAssemblyReference.cache
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\obj\Debug\BeenJammin.SharePoint.PreventVisualUpgrade.dll
+C:\SharePoint Solutions\git\BeenJammin.SharePoint.PreventVisualUpgrade\obj\Debug\BeenJammin.SharePoint.PreventVisualUpgrade.pdb

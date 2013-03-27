@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers >
+      <Receiver>
+        <Name>PreventVisualUpgradeWebProvisioned</Name>
+        <Type>WebProvisioned</Type>
+        <Assembly>BeenJammin.SharePoint.PreventVisualUpgrade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6ef44e5a8c5e130</Assembly>
+        <Class>BeenJammin.SharePoint.PreventVisualUpgrade.PreventVisualUpgrade</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>
